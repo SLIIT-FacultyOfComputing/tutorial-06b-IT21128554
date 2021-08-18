@@ -1,7 +1,7 @@
 class Student {
   private:
- char  name[20];
- int Id;
+ char  studentname[20];
+ int StudentId;
 
   public:
  void assignDetails(int Std,char Sname[]);
